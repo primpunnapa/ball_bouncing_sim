@@ -1,7 +1,5 @@
 import turtle
-import ball
 import random
-
 
 class Ball:
     def __init__(self, canvas_width, canvas_height, ball_radius, num_balls):
